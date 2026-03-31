@@ -3,13 +3,12 @@
 A Retrieval-Augmented Generation (RAG) chatbot built to answer questions from domain-specific knowledge sources like the **NEC electrical code** and **Wattmonk documents**, while also handling broader queries through a general LLM fallback.
 
 ---
+<video src="https://github.com/rishabhbishtuk12/Wattmonk-AI-Assistant/blob/main/Screen-Recording.mp4" controls width="100%"></video>
 
-<video controls src="Screen-Recording.mp4" title="
-"></video>
 
 ## Live Demo
 
-Deployed Link: [Paste your deployed link here](#)
+Deployed Link: https://wattmonk-ai-assistant-ae6i.vercel.app/
 
 ---
 
